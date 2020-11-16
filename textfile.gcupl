@@ -1,0 +1,36 @@
+int x;
+int y;
+int z[10];
+
+
+int help(){
+int num;
+break;
+}
+
+int main() {
+
+
+
+
+char table;
+
+int rows; 
+int columns;
+
+bool square;
+bool power;
+double squared;
+
+if (rows == columns){
+
+return 0;
+
+}
+
+else{
+
+break;
+}
+
+}
